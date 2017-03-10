@@ -70,4 +70,4 @@ the <<match-test-data,`match` query>>.
 
 【**提示** 】
 
-这一章，我们会用之之前在< match-test-data, `match` query >中使用的文档做例子。
+这一章，我们会用之前在< match-test-data, `match` query >中使用的文档做例子。
